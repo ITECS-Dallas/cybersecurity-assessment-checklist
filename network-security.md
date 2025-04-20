@@ -33,4 +33,22 @@
 ## Dallas-Specific Considerations
 Texas businesses experienced a 152% increase in network-based attacks in 2024, with a particular focus on professional services firms and healthcare providers in the Dallas area.
 
+---
+
+## 🧰 Tools & Recommendations
+
+Here are tools and services we often recommend for Dallas-based businesses:
+
+- [DUO Security](https://duo.com) — MFA
+- [Backup and Disaster Recovery](https://itecsonline.com/it-services/backup-disaster-recovery) — Backup & Disaster Recovery
+- [Sophos XDR/MDR](https://itecsonline.com/cybersecurity/endpoint-detection-response) — Advanced Endpoint Protection
+- [Auvik](https://itecsonline.com/monitoring/advanced-network-monitoring) — Network Visibility & Monitoring
+
+Need help implementing these tools? We’ve built out full managed cybersecurity solutions designed specifically for growing companies in Texas.
+
+> 👉 Visit our [Cybersecurity Services page](https://itecsonline.com/cybersecurity-services)  
+> 👉 Or go directly to [Managed IT Services in Dallas](https://itecsonline.com/it-services/managed-it-services-in-dallas)
+
+---
+
 [Back to Main Checklist](README.md) | [Contact ITECS for Assessment](https://itecsonline.com/contact-us)
