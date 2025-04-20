@@ -19,7 +19,7 @@ Our assessment framework helps identify critical gaps before they can be exploit
 
 This assessment is divided into several key domains:
 
-1. [Network Security](#network-security)
+1. [Network Security](#network-security.md)
 2. [Endpoint Protection](#endpoint-protection)
 3. [Identity Management](#identity-management)
 4. [Data Protection](#data-protection)
